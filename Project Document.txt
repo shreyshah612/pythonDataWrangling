@@ -5,3 +5,7 @@ URL: https://data.wa.gov/api/views/f6w7-q2d2/rows.csv?accessType=DOWNLOAD
 
 
 Exploratory Data Analysis - EDA
+I have already added some EDA to the data.
+While EDA it was found that majority of the data was from WA state so keeping the the analysis limited to WA as of now
+
+
