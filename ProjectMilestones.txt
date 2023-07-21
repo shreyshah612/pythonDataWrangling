@@ -1,0 +1,16 @@
+Electric vehicles (EVs) are becoming increasingly popular, as more and more people become aware of the environmental and financial benefits of owning an EV. 
+
+There are still many potential EV buyers who are not sure about the benefits of owning an EV. 
+
+This is my Data Analysis Project (DAP) on EV marketring cum sales strategy to help EV company push and encourage more targeted sales approach in the gasoline car market in USA.
+
+This project will use analytics to identify - 
+# The top EV-friendly suburbs and cities,
+# Analyze the distribution of EV types by make and model, 
+# Examine the driving range of different EV models,
+# Identify the legislative districts where there is a high concentration of EV owners or potential EV buyers,
+# Analyze the vehicle location data to see where EV owners are charging their vehicles
+# Examine the electric utility data to see which electric utilities offer the most EV-friendly rates
+# Analyze the 2020 Census Tract data to see where there is a high concentration of households that are financially able to purchase an EV
+
+This information will be used to create more targeted and effective advertising campaigns that will help to reach more potential EV buyers.
