@@ -1,0 +1,4 @@
+Dataset
+The dataset for this project is downloaded from https://catalog.data.gov/ >> State of Washington >> Electric Vehicle Population Data
+Following is the link for the data set
+URL: https://data.wa.gov/api/views/f6w7-q2d2/rows.csv?accessType=DOWNLOAD
