@@ -1,0 +1,18 @@
+Column Name,Description,Data Type
+VIN_ID,A unique identifier for the electric vehicle.,String
+County,The county where the electric vehicle is registered.,String
+City,The city where the electric vehicle is registered.,String
+State,The state where the electric vehicle is registered.,String
+Postal Code,The postal code where the electric vehicle is registered.,String
+Model Year,The year the electric vehicle was manufactured.,Integer
+Make,The make of the electric vehicle.,String
+Model,The model of the electric vehicle.,String
+Electric Vehicle Type,"The type of electric vehicle (BEV, PHEV, FCEV).",String
+Clean Alternative Fuel Vehicle (CAFV) Eligibility,Whether the electric vehicle is eligible for Clean Alternative Fuel Vehicle (CAFV) incentives.,Boolean
+Electric Range,The EPA-estimated electric range of the electric vehicle in miles.,Float
+Base MSRP,The base manufacturer's suggested retail price (MSRP) of the electric vehicle in US dollars.,Float
+Legislative District,The legislative district where the electric vehicle is registered.,Integer
+DOL Vehicle ID,The Department of Licensing (DOL) vehicle identification number for the electric vehicle.,String
+Vehicle Location,The geographic location of the electric vehicle.,Point
+Electric Utility,The electric utility that provides electricity to the electric vehicle.,String
+2020 Census Tract,The 2020 Census tract where the electric vehicle is registered.,Integer
